@@ -1,4 +1,5 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
-"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D2, D3, D4, D5, D6, D7, D8, D9",D_A-405_P7.62mm_Horizontal,18,D_Small,
-"MX1, MX10, MX11, MX12, MX13, MX14, MX15, MX16, MX17, MX18_2, MX18, MX2, MX3, MX4, MX5, MX6, MX7, MX8, MX9",SW_MX_1u_rev,19,MX_SW_solder,
-SW1,SW_PUSH_6mm,1,SW_Push,
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D2, D3, D4, D5, D6, D7, D8, D9",D_SOD-123,18,D_Small,
+"MX1, MX11, MX12, MX13, MX14, MX16, MX17, MX18, MX2, MX3, MX4, MX6, MX7, MX8, MX9",gateron-ks27-choc-v1-mx-hotswap-reversible,15,MX_SW_solder,
+"MX10, MX15, MX5",gateron-ks27-choc-v1-mx-hotswap-reversible edge preferred,3,MX_SW_solder,
+SW1,Panasonic_EVQPUL_EVQPUC PTH,1,SW_Push,
