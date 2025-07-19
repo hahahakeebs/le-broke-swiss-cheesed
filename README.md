@@ -1,6 +1,12 @@
-I saw this and said, wow, it'd be really nice with more holes.
+I saw le broke and said, wow, it'd be really nice with more holes.
+
+![pretty image of le broke](https://github.com/hahahakeebs/le-broke-swiss-cheesed/blob/main/images/cheesed.png)
 
 none of this is tested, yolo this to jlc at your own risk. I'm not responsible for you burning six dollars.
+
+assuming it works, then there is hotswap compatibility with MX, Choc v1/2, and KS27/33.
+
+upstream readme follows below.
 
 silly wacky split-but-not-split adaptation of le chiffre.
 
