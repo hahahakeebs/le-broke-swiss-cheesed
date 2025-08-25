@@ -48,7 +48,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_55555555_57555555",
+    "visible_layers": "00000000_00000000_55555555_57555554",
     "zone_display_mode": 0
   },
   "git": {
@@ -57,7 +57,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "le broke.kicad_prl",
+    "filename": "le broke sc.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
